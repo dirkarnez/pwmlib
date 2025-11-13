@@ -1,6 +1,6 @@
-avr
+### avr
 - fast pwm
 - phase-correct pwm
-arm
+### arm
 - edge-triggered
 - center-triggered
