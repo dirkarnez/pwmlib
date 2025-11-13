@@ -4,3 +4,7 @@
 ### arm
 - edge-triggered
 - center-triggered
+
+output PIN
+timer X channel X
+
